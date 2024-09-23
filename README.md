@@ -1,4 +1,7 @@
 Summary
+
+
+
 This project centers on creating machine learning models to assess borrower creditworthiness based on historical lending data. The goal is to categorize loans as either low risk (0) or high risk (1), assisting financial institutions in making informed lending decisions.
 
 
